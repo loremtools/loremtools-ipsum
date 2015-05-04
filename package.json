@@ -1,0 +1,28 @@
+{
+  "name": "loremtools-ipsum",
+  "version": "0.1.0",
+  "description": "Loremipsum Generation Service",
+  "main": "lib/bootstrap.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loremtools/loremtools-ipsum.git"
+  },
+  "keywords": [
+    "Lorem",
+    "ipsum",
+    "Generator",
+    "loremtools"
+  ],
+  "author": "pnhung177",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loremtools/loremtools-ipsum/issues"
+  },
+  "homepage": "https://github.com/loremtools/loremtools-ipsum",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
